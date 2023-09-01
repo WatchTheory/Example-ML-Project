@@ -1,2 +1,3 @@
 # Example-ML-Project
-An example on to use a dataset and then train an AI Model.
+Using google colab using a dataset to train an AI model then using matplotlibs to visual the results 
+
